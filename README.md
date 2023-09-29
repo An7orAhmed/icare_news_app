@@ -13,9 +13,9 @@ I started learning Riverpod and began working on the project. Alhamdulillah, I w
 Thanks.
 
 ## App Features
-### Simple Home UI
-### Pagination at the end
-### Details Screen
-### Search Option
-### Open full news externally
+#### Simple Home UI
+#### Pagination at the end
+#### Details Screen
+#### Search Option
+#### Open full news externally
 ![app features](https://github.com/An7orAhmed/icare_news_app/blob/main/img/all.jpeg)
