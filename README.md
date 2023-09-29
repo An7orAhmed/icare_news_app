@@ -1,16 +1,13 @@
-# icare_news_app
+# iCare News App
 
-A new Flutter project.
+A Flutter project for 'Task-Based Round' assignment in Interactive Cares job.
 
-## Getting Started
+## Behind the scenes
 
-This project is a starting point for a Flutter application.
+So, in the past, I didn't have any experience with Riverpod or Bloc because when I was learning Flutter, I chose Provider for state management since it was recommended by Flutter at that time. Later on, I learned about GetX and found it to be easier than Provider.
 
-A few resources to get you started if this is your first Flutter project:
+However, In this assignment specifically required me to use either Riverpod or Bloc. Initially, I was hesitant, but then I realized that if I don't take on new challenges, I won't be able to learn new technologies. So, I decided to give it a try. I did some research online to compare which state management approach is better in 2023, and most of the results pointed to Riverpod.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I started learning Riverpod and began working on the project. Alhamdulillah, I was able to learn and develop the app in just two days. Regardless of whether I get the job or not, I feel accomplished because I learned something new.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks.
