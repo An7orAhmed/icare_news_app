@@ -23,3 +23,5 @@ Thanks.
 ![Search](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952725.png)
 ### Pagination at the end
 ![Pagination](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952748.png)
+
+![Pagination](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952748.png) ![Pagination](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952748.png) ![Pagination](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952748.png) 
