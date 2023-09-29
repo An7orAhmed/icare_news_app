@@ -14,14 +14,8 @@ Thanks.
 
 ## App Features
 ### Simple Home UI
-![Home](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952682.png)
-### Details Screen
-![Details](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952689.png)
-### Open full news externally
-![Externally Open](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952705.png)
-### Search Option
-![Search](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952725.png)
 ### Pagination at the end
-![Pagination](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952748.png)
-
-![Pagination](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952748.png) ![Pagination](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952748.png) ![Pagination](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952748.png) 
+### Details Screen
+### Search Option
+### Open full news externally
+![app features](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952682.png)
