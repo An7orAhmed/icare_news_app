@@ -64,7 +64,7 @@ class NewsList extends ConsumerWidget {
         );
       },
       error: (e, s) {
-        print({e, s});
+        //print({e, s});
         return const Center(child: Text("Error loading data!"));
       },
     );

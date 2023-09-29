@@ -11,3 +11,15 @@ However, In this assignment specifically required me to use either Riverpod or B
 I started learning Riverpod and began working on the project. Alhamdulillah, I was able to learn and develop the app in just two days. Regardless of whether I get the job or not, I feel accomplished because I learned something new.
 
 Thanks.
+
+## App Features
+### 1. Simple Home UI
+![Home](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952682.png)
+### 2. Details Screen
+![Details](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952689.png)
+### 3. Open full news externally
+![Externally Open](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952705.png)
+### 4. Search Option
+![Search](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952725.png)
+### 5. Pagination at the end
+![Pagination](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952748.png)
