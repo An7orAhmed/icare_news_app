@@ -18,4 +18,4 @@ Thanks.
 ### Details Screen
 ### Search Option
 ### Open full news externally
-![app features](https://github.com/An7orAhmed/icare_news_app/blob/main/img/Screenshot_1695952682.png)
+![app features](https://github.com/An7orAhmed/icare_news_app/blob/main/img/all.jpeg)
