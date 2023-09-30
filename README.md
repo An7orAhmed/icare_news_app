@@ -13,9 +13,13 @@ I started learning Riverpod and began working on the project. Alhamdulillah, I w
 Thanks.
 
 ## App Features
-#### Simple Home UI
+#### Simple elegant UI
 #### Pagination at the end
-#### Details Screen
-#### Search Option
+#### Details screen
 #### Open full news externally
+#### Auto caching
+#### Pull to refresh
+#### Search option
+#### Riverpod state management
+
 ![app features](https://github.com/An7orAhmed/icare_news_app/blob/main/img/all.jpeg)
